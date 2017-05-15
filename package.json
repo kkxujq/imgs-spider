@@ -1,0 +1,28 @@
+{
+  "name": "imgs-spider",
+  "version": "1.0.0",
+  "description": "imgs-spider",
+  "main": "main.js",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkxujq/imgs-spider.git"
+  },
+  "keywords": [
+    "node.js",
+    "imgs-spider",
+    "spider"
+  ],
+  "author": "kkxujq@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkxujq/imgs-spider/issues"
+  },
+  "homepage": "https://github.com/kkxujq/imgs-spider#readme"
+}
