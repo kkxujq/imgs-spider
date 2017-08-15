@@ -11,7 +11,6 @@ URLS.forEach((URL) => {
     arr.push(html);
 });
 
-
 Promise
     .all(arr)
     .then((pages) => {
