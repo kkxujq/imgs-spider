@@ -9,7 +9,8 @@ let arr = [];
 URLS.forEach((URL) => {
     let html = getPageAsync(URL)
     arr.push(html);
-})
+});
+
 
 Promise
     .all(arr)
